@@ -1,0 +1,59 @@
+Gaya pemrograman :
+
+1. procedural
+2. object oriented 
+
+* PROCEDURAL PROGRAMMING 
+
+	- intruksi dilakukan langkah demi langkah
+	- memecah program menjadi bagian-bagian kecil
+	- disebut prosedur, subroutine atau function
+	- linear / Top-to-button
+	- bahasa pemrograman : fortan, ALGOL, COBOL, Pascal, C, PHP, Javascript. bahasa C hanya dapat dipakai dengan gaya pemrogramman procedural.
+
+* kelebihan procedural programming 
+
+	- to-the-point
+	- kemudahan implementasi
+ 	- mudah di telusuri
+	- membutuhkan lebih sedikit memory (dibandingkan dengan OOP).
+
+* OBJECT ORIENTED PROGRAMMING
+
+	- menyusun semua kode program dan struktur data sebagai object
+	- object adalah unit dasar dari program
+	- object menyimpan data dan prilaku
+	- object bisa saling berinteraksi
+	- bahasa pemrograman yg menggunakan OOP : Java, Ruby, Phyton, C++, Javascript, PHP5
+
+* kelebihan Object Oriented Programming
+
+	- representasi dunia nyata lebih mudah
+	- enkapsulasi (data yg kita buat aman dari sisi tidak bisa di akses 	  oleh bagian lain dari programnn kita) dan abstraksi data (mudah 		  menyembunyikan dari program kita)
+	- Reusability (kita dapat mudah mengguna ulang dari bagian bagian 	  program kita)
+	- skalabilitas & Ekstensibilitas
+	- kemudahan pengelolaan 
+	- kolaborasi
+	- digunakan oleh framework
+
+* jika mau membuat program yg simple atau untuk sendiri lebih baik menggunakan procedural programming, jika lebih rumit lebih baik menggunakan OOP.
+
+* KONSEP OOP pada bahasa pemrograman PHP
+
+	* BASIC 
+		- class & Object
+		- property & method
+		- construktor
+		- object type
+		- inheritance (pewarisan)
+		- visibility / Access modifier
+		- setter & getter
+		- static method
+
+	* Advanced
+		- abstract & interface
+		- interceptor
+		- object cloning
+		- callbacks & closures\
+		- namespaces & autoload
+		- ...
