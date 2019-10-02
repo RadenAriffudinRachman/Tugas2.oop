@@ -20,4 +20,5 @@ $produk3->judul = "One Piece";
 $produk3->penulis = "Ari";
 $produk3->penerbit = "Antariksa";
 $produk3->harga = 50000;
-var_dump($produk3);
+
+echo "Komik : $produk3->penulis, $produk3->penerbit";
